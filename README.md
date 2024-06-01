@@ -2,7 +2,7 @@
 ここはScratch作品『2Dクラフト』のバージョン集です。
 
 # お知らせ
-Minecraftを参考にしていますが、Minecraftとは一切関係ありません。
+Minecraftを参考にしていますが、Minecraftとは一切関係ありません。<br>
 v1.0.0.0　保存されてません。
 
 # MODの作成について
