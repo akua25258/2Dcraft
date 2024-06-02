@@ -8,7 +8,7 @@ Scratchを通して遊べます。(https://scratch.mit.edu/projects/1009785909/)
 公開予定のバージョンで遊ぶもよし、[ベータ]<br>
 おふざけのバージョンで遊ぶもよし、[スナップ]<br>
 なつかしいバージョンで遊ぶもよし、[正式]<br>
-なんもないバージョンで遊ぶもよし、[アルファ](https://github.com/akua25258/2Dcraft/tree/main/2D%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88/%E3%83%99%E3%83%BC%E3%82%BF)<br>
+なんもないバージョンで遊ぶもよし、[アルファ](https://github.com/akua25258/2Dcraft/tree/main/2D%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1)<br>
 自由にDLして遊びましょう！<br>
 
 # お知らせ
